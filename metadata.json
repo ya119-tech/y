@@ -1,0 +1,6 @@
+{
+  "name": "ماشین‌حساب جامع",
+  "description": "ماشین‌حساب فوق‌پیشرفته و همه‌کاره: محاسبات علمی و مهندسی، رادیکال و ریشه‌های مختلط، تبدیل ۹ گانه واحدها، حل معادلات و ابزارهای مالی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
